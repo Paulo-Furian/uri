@@ -1,0 +1,7 @@
+C:\projeto teste\ex_1090\ex_1090\bin\Debug\ex_1090.exe.config
+C:\projeto teste\ex_1090\ex_1090\bin\Debug\ex_1090.exe
+C:\projeto teste\ex_1090\ex_1090\bin\Debug\ex_1090.pdb
+C:\projeto teste\ex_1090\ex_1090\obj\Debug\ex_1090.csprojAssemblyReference.cache
+C:\projeto teste\ex_1090\ex_1090\obj\Debug\ex_1090.csproj.CoreCompileInputs.cache
+C:\projeto teste\ex_1090\ex_1090\obj\Debug\ex_1090.exe
+C:\projeto teste\ex_1090\ex_1090\obj\Debug\ex_1090.pdb

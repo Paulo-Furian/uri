@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\entradaDeDados\entradaDeDados\bin\Debug\entradaDeDados.exe.config
+C:\Users\Paulo Sousa\source\repos\entradaDeDados\entradaDeDados\bin\Debug\entradaDeDados.exe
+C:\Users\Paulo Sousa\source\repos\entradaDeDados\entradaDeDados\bin\Debug\entradaDeDados.pdb
+C:\Users\Paulo Sousa\source\repos\entradaDeDados\entradaDeDados\obj\Debug\entradaDeDados.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\entradaDeDados\entradaDeDados\obj\Debug\entradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\entradaDeDados\entradaDeDados\obj\Debug\entradaDeDados.exe
+C:\Users\Paulo Sousa\source\repos\entradaDeDados\entradaDeDados\obj\Debug\entradaDeDados.pdb

@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\ex_1065\ex_1065\bin\Debug\ex_1065.exe.config
+C:\Users\Paulo Sousa\source\repos\ex_1065\ex_1065\bin\Debug\ex_1065.exe
+C:\Users\Paulo Sousa\source\repos\ex_1065\ex_1065\bin\Debug\ex_1065.pdb
+C:\Users\Paulo Sousa\source\repos\ex_1065\ex_1065\obj\Debug\ex_1065.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\ex_1065\ex_1065\obj\Debug\ex_1065.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\ex_1065\ex_1065\obj\Debug\ex_1065.exe
+C:\Users\Paulo Sousa\source\repos\ex_1065\ex_1065\obj\Debug\ex_1065.pdb

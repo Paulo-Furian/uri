@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\ex_1097\ex_1097\bin\Debug\ex_1097.exe.config
+C:\Users\Paulo Sousa\source\repos\ex_1097\ex_1097\bin\Debug\ex_1097.exe
+C:\Users\Paulo Sousa\source\repos\ex_1097\ex_1097\bin\Debug\ex_1097.pdb
+C:\Users\Paulo Sousa\source\repos\ex_1097\ex_1097\obj\Debug\ex_1097.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\ex_1097\ex_1097\obj\Debug\ex_1097.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\ex_1097\ex_1097\obj\Debug\ex_1097.exe
+C:\Users\Paulo Sousa\source\repos\ex_1097\ex_1097\obj\Debug\ex_1097.pdb

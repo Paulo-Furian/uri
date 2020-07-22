@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\ex_vet6\bin\Debug\ex_vet6.exe.config
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\ex_vet6\bin\Debug\ex_vet6.exe
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\ex_vet6\bin\Debug\ex_vet6.pdb
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\ex_vet6\obj\Debug\ex_vet6.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\ex_vet6\obj\Debug\ex_vet6.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\ex_vet6\obj\Debug\ex_vet6.exe
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\ex_vet6\obj\Debug\ex_vet6.pdb

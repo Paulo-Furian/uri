@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\ex_1005\ex_1005\bin\Debug\ex_1005.exe.config
+C:\Users\Paulo Sousa\source\repos\ex_1005\ex_1005\bin\Debug\ex_1005.exe
+C:\Users\Paulo Sousa\source\repos\ex_1005\ex_1005\bin\Debug\ex_1005.pdb
+C:\Users\Paulo Sousa\source\repos\ex_1005\ex_1005\obj\Debug\ex_1005.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\ex_1005\ex_1005\obj\Debug\ex_1005.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\ex_1005\ex_1005\obj\Debug\ex_1005.exe
+C:\Users\Paulo Sousa\source\repos\ex_1005\ex_1005\obj\Debug\ex_1005.pdb

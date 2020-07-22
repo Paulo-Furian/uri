@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\ex_1013\ex_1013\obj\Debug\ex_1013.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\ex_1013\ex_1013\obj\Debug\ex_1013.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\ex_1013\ex_1013\bin\Debug\ex_1013.exe.config
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\ex_1013\ex_1013\bin\Debug\ex_1013.exe
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\ex_1013\ex_1013\bin\Debug\ex_1013.pdb
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\ex_1013\ex_1013\obj\Debug\ex_1013.exe
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\ex_1013\ex_1013\obj\Debug\ex_1013.pdb

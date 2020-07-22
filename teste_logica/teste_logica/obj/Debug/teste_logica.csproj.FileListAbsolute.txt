@@ -1,0 +1,10 @@
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\bin\Debug\teste_logica.exe.config
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\bin\Debug\teste_logica.exe
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\bin\Debug\teste_logica.pdb
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\obj\Debug\teste_logica.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\obj\Debug\teste_logica.Form1.resources
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\obj\Debug\teste_logica.Properties.Resources.resources
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\obj\Debug\teste_logica.csproj.GenerateResource.cache
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\obj\Debug\teste_logica.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\obj\Debug\teste_logica.exe
+C:\Users\Paulo Sousa\source\repos\teste_logica\teste_logica\obj\Debug\teste_logica.pdb

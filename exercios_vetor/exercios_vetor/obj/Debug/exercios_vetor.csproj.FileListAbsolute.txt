@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\exercios_vetor\bin\Debug\exercios_vetor.exe.config
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\exercios_vetor\bin\Debug\exercios_vetor.exe
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\exercios_vetor\bin\Debug\exercios_vetor.pdb
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\exercios_vetor\obj\Debug\exercios_vetor.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\exercios_vetor\obj\Debug\exercios_vetor.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\exercios_vetor\obj\Debug\exercios_vetor.exe
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\exercios_vetor\exercios_vetor\obj\Debug\exercios_vetor.pdb

@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\ex_1040\ex_1040\bin\Debug\ex_1040.exe.config
+C:\Users\Paulo Sousa\source\repos\ex_1040\ex_1040\bin\Debug\ex_1040.exe
+C:\Users\Paulo Sousa\source\repos\ex_1040\ex_1040\bin\Debug\ex_1040.pdb
+C:\Users\Paulo Sousa\source\repos\ex_1040\ex_1040\obj\Debug\ex_1040.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\ex_1040\ex_1040\obj\Debug\ex_1040.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\ex_1040\ex_1040\obj\Debug\ex_1040.exe
+C:\Users\Paulo Sousa\source\repos\ex_1040\ex_1040\obj\Debug\ex_1040.pdb

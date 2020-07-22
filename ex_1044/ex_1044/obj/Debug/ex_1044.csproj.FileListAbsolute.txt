@@ -1,0 +1,6 @@
+C:\Users\Paulo Sousa\source\repos\ex_1044\ex_1044\bin\Debug\ex_1044.exe.config
+C:\Users\Paulo Sousa\source\repos\ex_1044\ex_1044\bin\Debug\ex_1044.exe
+C:\Users\Paulo Sousa\source\repos\ex_1044\ex_1044\bin\Debug\ex_1044.pdb
+C:\Users\Paulo Sousa\source\repos\ex_1044\ex_1044\obj\Debug\ex_1044.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\ex_1044\ex_1044\obj\Debug\ex_1044.exe
+C:\Users\Paulo Sousa\source\repos\ex_1044\ex_1044\obj\Debug\ex_1044.pdb

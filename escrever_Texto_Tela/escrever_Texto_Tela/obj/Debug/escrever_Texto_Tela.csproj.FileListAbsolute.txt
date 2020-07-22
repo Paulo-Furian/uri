@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\escrever_Texto_Tela\escrever_Texto_Tela\bin\Debug\escrever_Texto_Tela.exe.config
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\escrever_Texto_Tela\escrever_Texto_Tela\bin\Debug\escrever_Texto_Tela.exe
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\escrever_Texto_Tela\escrever_Texto_Tela\bin\Debug\escrever_Texto_Tela.pdb
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\escrever_Texto_Tela\escrever_Texto_Tela\obj\Debug\escrever_Texto_Tela.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\escrever_Texto_Tela\escrever_Texto_Tela\obj\Debug\escrever_Texto_Tela.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\escrever_Texto_Tela\escrever_Texto_Tela\obj\Debug\escrever_Texto_Tela.exe
+C:\Users\Paulo Sousa\Desktop\C# Udemy\Logica\Projetos\escrever_Texto_Tela\escrever_Texto_Tela\obj\Debug\escrever_Texto_Tela.pdb

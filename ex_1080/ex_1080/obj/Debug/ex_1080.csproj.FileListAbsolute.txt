@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\ex_1080\ex_1080\bin\Debug\ex_1080.exe.config
+C:\Users\Paulo Sousa\source\repos\ex_1080\ex_1080\bin\Debug\ex_1080.exe
+C:\Users\Paulo Sousa\source\repos\ex_1080\ex_1080\bin\Debug\ex_1080.pdb
+C:\Users\Paulo Sousa\source\repos\ex_1080\ex_1080\obj\Debug\ex_1080.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\ex_1080\ex_1080\obj\Debug\ex_1080.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\ex_1080\ex_1080\obj\Debug\ex_1080.exe
+C:\Users\Paulo Sousa\source\repos\ex_1080\ex_1080\obj\Debug\ex_1080.pdb

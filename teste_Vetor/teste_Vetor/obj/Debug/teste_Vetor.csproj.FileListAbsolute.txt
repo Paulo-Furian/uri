@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\teste_Vetor\teste_Vetor\bin\Debug\teste_Vetor.exe.config
+C:\Users\Paulo Sousa\source\repos\teste_Vetor\teste_Vetor\bin\Debug\teste_Vetor.exe
+C:\Users\Paulo Sousa\source\repos\teste_Vetor\teste_Vetor\bin\Debug\teste_Vetor.pdb
+C:\Users\Paulo Sousa\source\repos\teste_Vetor\teste_Vetor\obj\Debug\teste_Vetor.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\teste_Vetor\teste_Vetor\obj\Debug\teste_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\teste_Vetor\teste_Vetor\obj\Debug\teste_Vetor.exe
+C:\Users\Paulo Sousa\source\repos\teste_Vetor\teste_Vetor\obj\Debug\teste_Vetor.pdb

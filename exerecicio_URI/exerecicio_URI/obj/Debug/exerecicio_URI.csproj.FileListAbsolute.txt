@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\exerecicio_URI\exerecicio_URI\bin\Debug\exerecicio_URI.exe.config
+C:\Users\Paulo Sousa\source\repos\exerecicio_URI\exerecicio_URI\bin\Debug\exerecicio_URI.exe
+C:\Users\Paulo Sousa\source\repos\exerecicio_URI\exerecicio_URI\bin\Debug\exerecicio_URI.pdb
+C:\Users\Paulo Sousa\source\repos\exerecicio_URI\exerecicio_URI\obj\Debug\exerecicio_URI.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\exerecicio_URI\exerecicio_URI\obj\Debug\exerecicio_URI.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\exerecicio_URI\exerecicio_URI\obj\Debug\exerecicio_URI.exe
+C:\Users\Paulo Sousa\source\repos\exerecicio_URI\exerecicio_URI\obj\Debug\exerecicio_URI.pdb

@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\ex_1143\ex_1143\bin\Debug\ex_1143.exe.config
+C:\Users\Paulo Sousa\source\repos\ex_1143\ex_1143\bin\Debug\ex_1143.exe
+C:\Users\Paulo Sousa\source\repos\ex_1143\ex_1143\bin\Debug\ex_1143.pdb
+C:\Users\Paulo Sousa\source\repos\ex_1143\ex_1143\obj\Debug\ex_1143.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\ex_1143\ex_1143\obj\Debug\ex_1143.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\ex_1143\ex_1143\obj\Debug\ex_1143.exe
+C:\Users\Paulo Sousa\source\repos\ex_1143\ex_1143\obj\Debug\ex_1143.pdb

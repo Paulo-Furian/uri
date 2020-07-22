@@ -1,0 +1,7 @@
+C:\Users\Paulo Sousa\source\repos\ex_1041\ex_1041\bin\Debug\ex_1041.exe.config
+C:\Users\Paulo Sousa\source\repos\ex_1041\ex_1041\bin\Debug\ex_1041.exe
+C:\Users\Paulo Sousa\source\repos\ex_1041\ex_1041\bin\Debug\ex_1041.pdb
+C:\Users\Paulo Sousa\source\repos\ex_1041\ex_1041\obj\Debug\ex_1041.csprojAssemblyReference.cache
+C:\Users\Paulo Sousa\source\repos\ex_1041\ex_1041\obj\Debug\ex_1041.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Sousa\source\repos\ex_1041\ex_1041\obj\Debug\ex_1041.exe
+C:\Users\Paulo Sousa\source\repos\ex_1041\ex_1041\obj\Debug\ex_1041.pdb
